@@ -1,0 +1,13 @@
+System boot completed
+User admin logged in
+Error: unable to access network
+Retrying connection
+Connection established
+Warning: memory usage high
+Error: disk read failure
+Backup process started
+Backup completed successfully
+System running normally
+
+cat testlog.txt
+

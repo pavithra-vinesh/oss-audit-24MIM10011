@@ -43,3 +43,10 @@ Generates a simple open-source manifesto based on user input.
 ### Step 2: Go to scripts folder
 ```bash
 cd scripts
+chmod +x *.sh
+### Step 3: run each file 
+./system_identity.sh
+./package_inspector.sh
+./disk_auditor.sh
+./log_analyzer.sh
+./manifesto_generator.sh
